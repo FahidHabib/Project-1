@@ -1,7 +1,4 @@
-import React from 'react';
-
-
-export default  (state,action)=>{
+export default  (state, action)=>{
     switch(action.type){
         case 'ADD_TRANSACTION':
             return{
@@ -18,3 +15,4 @@ export default  (state,action)=>{
             return state;
     }
 }
+
