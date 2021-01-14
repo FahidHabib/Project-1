@@ -9,7 +9,7 @@ import BalenceSummry from './Components/BalenceSummry';
 import TransactionHistory from './Components/TransactionHistory';
 import AddTransaction from './Components/AddTransaction';
 
-// import GlobleProvider
+// import GlobleProvide
 
 import { GlobleProvider } from './context/GlobleState';
 
